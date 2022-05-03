@@ -1,0 +1,21 @@
+{
+  "name": "ft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon"
+  },
+  "author": "Mos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  },
+
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
